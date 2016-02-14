@@ -1,0 +1,20 @@
+<aura:component controller="Youtubesearch" implements="forceCommunity:availableForAllPageTypes,force:appHostable,flexipage:availableForAllPageTypes">
+
+<ltng:require styles="/resource/SLDS0121/assets/styles/salesforce-lightning-design-system-ltng.css" />
+	
+<!--ATTRIBUTES DECLARATION -->
+<aura:attribute name="data" type="YoutubeDataParser"/>
+<aura:attribute name="SearchString" type="String" default="{!searchString}"/>
+
+<aura:handler name="init" value="{!this}" action="{!c.getresults}" />
+
+<div class="slds">
+ <b>RESULTS ON YOUTUBE FOR "{!v.SearchString}"</b>
+<hr/>
+	<aura:iteration items="{!v.data.items}" var="cardItem">
+	  	<c:YoutubeResultCard item="{!cardItem}"/>
+		<br/>
+	</aura:iteration>
+</div>
+
+</aura:component>
