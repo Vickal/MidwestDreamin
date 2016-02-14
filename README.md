@@ -14,5 +14,12 @@ Lightning Components , Apex and Visualforce Code for the seDreamin demo
 
 ![capture1](https://cloud.githubusercontent.com/assets/2276156/12876763/df8080cc-cdd4-11e5-9493-57ff4d7b3ced.PNG)
 
+[Salesforce Communities demo] (https://sedreamcommunity-developer-edition.na30.force.com/s/)
+
+![communitydemo](https://cloud.githubusercontent.com/assets/2276156/13037184/757e4fe0-d349-11e5-979e-6ed42a618f4e.PNG)
+
+
+![capture](https://cloud.githubusercontent.com/assets/2276156/13037190/930d1492-d349-11e5-98a8-2b26a5c49d84.PNG)
+
 
 
