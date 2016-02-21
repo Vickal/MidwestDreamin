@@ -1,3 +1,0 @@
-<design:component>
-   <design:attribute name="SearchString" label="Search" description="Please add Search merge variable" />
-</design:component>
