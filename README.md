@@ -10,6 +10,10 @@ Lightning Components , Apex and Visualforce Code for the seDreamin demo
 
 ![capture2](https://cloud.githubusercontent.com/assets/2276156/12876786/3df68430-cdd5-11e5-83df-5d3e09cb9092.PNG)
 
+App Builder
+
+![appbuilder](https://cloud.githubusercontent.com/assets/2276156/13589605/11a579de-e4a7-11e5-96b7-12cc2ef962b3.PNG)
+
 [Visualforce demo link  ](https://sedreambmo-dev-ed--c.na30.visual.force.com/apex/SalesLeaderBoard)
 
 ![capture1](https://cloud.githubusercontent.com/assets/2276156/12876763/df8080cc-cdd4-11e5-9493-57ff4d7b3ced.PNG)
@@ -20,3 +24,12 @@ Lightning Components , Apex and Visualforce Code for the seDreamin demo
 
 
 ![capture](https://cloud.githubusercontent.com/assets/2276156/13037190/930d1492-d349-11e5-98a8-2b26a5c49d84.PNG)
+
+Community Builder
+
+![community_builder](https://cloud.githubusercontent.com/assets/2276156/13589619/30d7a930-e4a7-11e5-9013-57a34da4ac57.PNG)
+
+Salesforce 1
+
+
+![sf1](https://cloud.githubusercontent.com/assets/2276156/13589629/468e8442-e4a7-11e5-9907-9b0d2acab64e.PNG)
