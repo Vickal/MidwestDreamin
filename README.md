@@ -1,4 +1,4 @@
-# SEDreamin Atlanta
+# Midwest Dreamin Chicago
 Lightning Components , Apex and Visualforce Code for the seDreamin demo 
 
 <p> Below are demo components </p>
