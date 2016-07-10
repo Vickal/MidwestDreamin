@@ -1,5 +1,5 @@
 # Midwest Dreamin Chicago
-Lightning Components , Apex and Visualforce Code for the seDreamin demo 
+Lightning Components , Apex and Visualforce Code for the Midwest Dreamin demo 
 
 <p> Below are demo components </p>
 
